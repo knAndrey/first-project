@@ -1,1 +1,1 @@
-#Дуайт Шрут :rotating_light:
+# Дуайт Шрут :rotating_light:
